@@ -18,7 +18,7 @@ Login Page
 
 Main Page
 ![Screenshot (1027)](https://user-images.githubusercontent.com/76584516/164894912-af46a23c-e14b-4ab9-ac70-3236c3af28d7.png)  
-Clicking on the tabs will fetch the html file using AJAX 
+Clicking on the tabs will fetch the html file using AJAX   
 User  
 ![Screenshot (1029)](https://user-images.githubusercontent.com/76584516/164894980-da6d332a-9c51-4397-810c-466ab3202b4d.png)  
 
