@@ -27,5 +27,11 @@ Shopping Cart
 ![Screenshot (1031)](https://user-images.githubusercontent.com/76584516/164895075-9ced5f74-df57-4a05-9b66-c7b50196a4d9.png)  
 Using the Search bar
 ![Screenshot (1032)](https://user-images.githubusercontent.com/76584516/164895103-ed5ec861-be9d-414d-a086-e4bc6ddd6eca.png)
+Shipping Information  
+![Screenshot (1033)](https://user-images.githubusercontent.com/76584516/164895377-3acb0e13-58e5-4759-aa81-86e2508209b7.png)
+Checkout  
+![Screenshot (1032)](https://user-images.githubusercontent.com/76584516/164895359-c785a3a8-7ae4-428d-98f3-6d5a7e499064.png)
+Bill/Order Details  
+![Screenshot (1037)](https://user-images.githubusercontent.com/76584516/164895602-cb942ad8-d04c-414d-aecf-ed7240df0d51.png)
 
 
