@@ -18,7 +18,7 @@ Login Page
 ADMIN LOGIN  
 ![Screenshot (1043)](https://user-images.githubusercontent.com/76584516/164895928-0175c5dd-8986-43e9-9cba-93a1b44fb920.png)
 ADMIN PANEL  
-![Screenshot (1043)](https://user-images.githubusercontent.com/76584516/164895950-cc300599-b942-47c2-9bb9-5999c38f50ab.png)
+![Screenshot (1044)](https://user-images.githubusercontent.com/76584516/164895969-fb471ba5-6872-46bc-8de5-bed9b099fee7.png)
 
 
 
