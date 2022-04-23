@@ -14,7 +14,13 @@ Front Page
 ![Screenshot (1022)](https://user-images.githubusercontent.com/76584516/164894870-698bf65b-d783-4be2-91f4-2e1ae2e0f06e.png)
 
 Login Page
-![Screenshot (1041)](https://user-images.githubusercontent.com/76584516/164894685-f2f8688a-c792-4ed6-ac24-67585a396d0d.png)  
+![Screenshot (1042)](https://user-images.githubusercontent.com/76584516/164895908-250d05d7-0fb8-49df-b689-1c1b41bf769b.png)
+ADMIN LOGIN  
+![Screenshot (1043)](https://user-images.githubusercontent.com/76584516/164895928-0175c5dd-8986-43e9-9cba-93a1b44fb920.png)
+ADMIN PANEL  
+![Screenshot (1043)](https://user-images.githubusercontent.com/76584516/164895950-cc300599-b942-47c2-9bb9-5999c38f50ab.png)
+
+
 
 Main Page
 ![Screenshot (1027)](https://user-images.githubusercontent.com/76584516/164894912-af46a23c-e14b-4ab9-ac70-3236c3af28d7.png)  
